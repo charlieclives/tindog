@@ -1,0 +1,161 @@
+body {
+  font-family: 'Montserrat';
+ }
+
+#title {
+  background-color: #ff4c68;
+}
+
+.tindog {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.nav-item {
+  padding: 0px 18px;
+}
+
+#hedding {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.iphone6 {
+  transform: rotate(25deg);
+  position: absolute;
+  right: 22%;
+  width: 20%;
+}
+@media (max-width:1028px) {
+  .iphone6 {
+    transform: rotate(0);
+    position:static;
+    width: 40%;
+
+
+}
+#title{text-align: center;}
+
+}
+
+.top-padding {
+  padding: 3% 15% 2%;
+}
+
+/* downlode-button */
+.downlode-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* middlecontent */
+.middle-padding {
+  padding: 15% 15%;
+}
+
+#features {
+  text-align: center;
+  background: white;
+  position: relative;
+}
+
+#middle-icon {
+  color: #ff4c68;
+  padding-bottom: 5%;
+  padding-top: 10%;
+}
+
+#middle-icon:hover {
+  color: #ef8172
+}
+
+.middle-h3 {
+  font-weight: 800;
+}
+
+.middle-p {
+  width: 70%;
+  margin: auto;
+  font-weight: 300;
+  color: #8f8f8f;
+}
+
+/* testimonials */
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  line-height: 1.5;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 10%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 20px;
+}
+
+/* pricing */
+#pricing {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.card-hedding {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
+
+.card-padding {
+  padding-top: 5%;
+}
+
+.button-padding {
+  margin-top: 13%;
+}
+
+/* <!-- Call to Action --> */
+#cta {
+  background-color: #ff4c68;
+  padding: 10% 15%;
+  text-align: center;
+}
+.bottom-h3{
+font-family:'Montserrat', sans-serif;
+  font-weight: 900;
+font-size: 2.5rem;
+width: 70%;
+margin: auto;
+color: #fff;}
+
+#footer{text-align:center;
+  padding: 5% 15% 1%;
+
+}
+.social-media{padding: 0 2% 2%;}
